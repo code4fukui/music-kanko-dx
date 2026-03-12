@@ -1,0 +1,826 @@
+{
+  "entity_type": "playlist_schema",
+  "id": "9da471f6-0d33-4b2d-bbc1-4712fa3a7fb0",
+  "name": "観光DX",
+  "playlist_clips": [
+    {
+      "clip": {
+        "status": "complete",
+        "title": "オープンデータで観光DX",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "062e2a2f-0e65-4b5b-8774-34a4a2f86578",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/062e2a2f-0e65-4b5b-8774-34a4a2f86578.mp3",
+        "image_url": "image/image_062e2a2f-0e65-4b5b-8774-34a4a2f86578.jpeg",
+        "image_large_url": "image_large/image_large_062e2a2f-0e65-4b5b-8774-34a4a2f86578.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "High-energy J-rock anthem, brisk tempo with distorted guitars and tight live drums; intro starts on a shouted gang-vocal hook then drops into a driving verse. Male vocals push into the rasp on pre-chorus lifts, chorus explodes with octave guitars and big crowd-chant backing. Brief halftime bridge for dramatic tension, then a final key-lift chorus with layered shouts and cymbal swells.",
+          "prompt": "[Intro]\\nオープンデータで観光DX！ (hey!)\\nオープンデータで観光DX！ (wow!)\\n\\n[Verse 1]\\n紙の地図　折り目だらけ\\nバスの時間　写真で保存\\n「どこ行こう？」って止まるより\\n今　つながれよ　世界線\\n\\n[Pre-Chorus]\\n閉じたままの引き出し\\n眠っていた数字たち\\n鍵を回せ　一瞬で\\n景色が書き換わる\\n\\n[Chorus]\\nオープンデータで観光DX\\n見えない声まで　見える未来\\n迷子だった夢がコンパスになる\\nここから始めよう　アップデートの旅\\n\\n[Verse 2]\\n古い商店　シャッターの裏\\n誰も知らない逸品がある\\nクリック一つ　橋をかけて\\n遠い誰かの「行きたい」になる\\n\\n[Pre-Chorus]\\n点と点が街中で\\n線になり　道になる\\n「来てくれてありがとう」\\nその笑顔が証明だ\\n\\n[Chorus]\\nオープンデータで観光DX\\n数字の海から　出会いが咲く\\n一行のコードが道しるべになる\\n今すぐ飛び込めよ　アップデートの旅\\n\\n[Bridge]\\n曖昧な「頑張ろう」は捨てて\\n見える形で　繋ぎ直せ\\n開くたび　増えていく物語\\nこの街ごと　アップロード\\n\\n[Chorus]\\nオープンデータで観光DX\\n昨日の常識　笑い飛ばせ\\n迷子だった夢がコンパスになる\\nみんなで描き出す　アップデートの旅\\n\\n[Outro]\\nオープンデータで観光DX！ (hey!)\\nここから本番だ　観光DX！",
+          "gpt_description_prompt": "「オープンデータで観光DX」というシャウトで始まる熱いテーマ曲",
+          "type": "gen",
+          "duration": 188.28,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-03-12T07:11:50.867Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "J-rock, alternative rock, rock",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1
+      },
+      "relative_index": 0
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "オープンデータで観光DX",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "104fa98c-0fde-4abf-92d9-928bd6515070",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/104fa98c-0fde-4abf-92d9-928bd6515070.mp3",
+        "image_url": "image/image_104fa98c-0fde-4abf-92d9-928bd6515070.jpeg",
+        "image_large_url": "image_large/image_large_104fa98c-0fde-4abf-92d9-928bd6515070.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "High-energy J-rock anthem, brisk tempo with distorted guitars and tight live drums; intro starts on a shouted gang-vocal hook then drops into a driving verse. Male vocals push into the rasp on pre-chorus lifts, chorus explodes with octave guitars and big crowd-chant backing. Brief halftime bridge for dramatic tension, then a final key-lift chorus with layered shouts and cymbal swells.",
+          "prompt": "[Intro]\\nオープンデータで観光DX！ (hey!)\\nオープンデータで観光DX！ (wow!)\\n\\n[Verse 1]\\n紙の地図　折り目だらけ\\nバスの時間　写真で保存\\n「どこ行こう？」って止まるより\\n今　つながれよ　世界線\\n\\n[Pre-Chorus]\\n閉じたままの引き出し\\n眠っていた数字たち\\n鍵を回せ　一瞬で\\n景色が書き換わる\\n\\n[Chorus]\\nオープンデータで観光DX\\n見えない声まで　見える未来\\n迷子だった夢がコンパスになる\\nここから始めよう　アップデートの旅\\n\\n[Verse 2]\\n古い商店　シャッターの裏\\n誰も知らない逸品がある\\nクリック一つ　橋をかけて\\n遠い誰かの「行きたい」になる\\n\\n[Pre-Chorus]\\n点と点が街中で\\n線になり　道になる\\n「来てくれてありがとう」\\nその笑顔が証明だ\\n\\n[Chorus]\\nオープンデータで観光DX\\n数字の海から　出会いが咲く\\n一行のコードが道しるべになる\\n今すぐ飛び込めよ　アップデートの旅\\n\\n[Bridge]\\n曖昧な「頑張ろう」は捨てて\\n見える形で　繋ぎ直せ\\n開くたび　増えていく物語\\nこの街ごと　アップロード\\n\\n[Chorus]\\nオープンデータで観光DX\\n昨日の常識　笑い飛ばせ\\n迷子だった夢がコンパスになる\\nみんなで描き出す　アップデートの旅\\n\\n[Outro]\\nオープンデータで観光DX！ (hey!)\\nここから本番だ　観光DX！",
+          "gpt_description_prompt": "「オープンデータで観光DX」というシャウトで始まる熱いテーマ曲",
+          "type": "gen",
+          "duration": 139.92,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-03-12T07:11:50.867Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "J-rock, alternative rock, rock",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 1
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "シビックテック・ナイト",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "154ba513-33e7-480d-9b50-7fcdabc30c97",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/154ba513-33e7-480d-9b50-7fcdabc30c97.mp3",
+        "image_url": "image/image_154ba513-33e7-480d-9b50-7fcdabc30c97.jpeg",
+        "image_large_url": "image_large/image_large_154ba513-33e7-480d-9b50-7fcdabc30c97.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "Upbeat J-pop with a hint of city pop polish, mid‑tempo four-on-the-floor groove, bright synth arps, and clean funk guitar chops. Male vocals ride close and conversational in the verses, chorus opens with wide stacked harmonies and a bouncing bass line. Add subtle vocoder doubles on key hook words, with a brief filtered drop before the final hook to reset energy then a sparkling, full-band finale.",
+          "prompt": "[Verse 1]\\n終電ギリギリのカフェ\\nノートPCの光だけ\\n名前も知らない君と\\n同じバグをにらんでる\\n\\n締め切りは過ぎてるのに\\n誰もやめようとしない\\n「できたら変わるかもね」\\n小さく笑う声　染みる\\n\\n[Chorus]\\nシビックテックで夜が明ける\\n画面の向こうに街が見える\\n届かないって　誰が決めた？\\nコードでつなぐ　君と世界\\nシビックテックで手を伸ばす\\n投げた一行が風を起こす\\n黙っていられないから\\nタイプするだけの　ささやかな革命\\n\\n[Verse 2]\\n古い役所のサイト\\nスマホじゃ全然読めない\\n「これじゃ困る人いるよ」\\n君のまゆげが少し寄る\\n\\n理想なんて照れるけど\\n諦める方が照れる\\nできることは小さくて\\nでもやらない言い訳もない\\n\\n[Chorus]\\nシビックテックで夜が明ける\\n画面の向こうに街が見える\\n「しょうがない」って　もう言わない\\n書き直してく　当たり前を\\nシビックテックで手を伸ばす\\n失敗だらけでも笑い飛ばす\\n誰かの「助かったよ」が\\n通知みたいに　胸を震わせる",
+          "gpt_description_prompt": "シビック テック",
+          "type": "gen",
+          "duration": 311.36,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-03-12T05:35:10.107Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "J-pop, city pop",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1
+      },
+      "relative_index": 2
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "シビックテック・ナイト",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "2596b542-3a2f-433e-9e85-c1414ca8db50",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/2596b542-3a2f-433e-9e85-c1414ca8db50.mp3",
+        "image_url": "image/image_2596b542-3a2f-433e-9e85-c1414ca8db50.jpeg",
+        "image_large_url": "image_large/image_large_2596b542-3a2f-433e-9e85-c1414ca8db50.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "Upbeat J-pop with a hint of city pop polish, mid‑tempo four-on-the-floor groove, bright synth arps, and clean funk guitar chops. Male vocals ride close and conversational in the verses, chorus opens with wide stacked harmonies and a bouncing bass line. Add subtle vocoder doubles on key hook words, with a brief filtered drop before the final hook to reset energy then a sparkling, full-band finale.",
+          "prompt": "[Verse 1]\\n終電ギリギリのカフェ\\nノートPCの光だけ\\n名前も知らない君と\\n同じバグをにらんでる\\n\\n締め切りは過ぎてるのに\\n誰もやめようとしない\\n「できたら変わるかもね」\\n小さく笑う声　染みる\\n\\n[Chorus]\\nシビックテックで夜が明ける\\n画面の向こうに街が見える\\n届かないって　誰が決めた？\\nコードでつなぐ　君と世界\\nシビックテックで手を伸ばす\\n投げた一行が風を起こす\\n黙っていられないから\\nタイプするだけの　ささやかな革命\\n\\n[Verse 2]\\n古い役所のサイト\\nスマホじゃ全然読めない\\n「これじゃ困る人いるよ」\\n君のまゆげが少し寄る\\n\\n理想なんて照れるけど\\n諦める方が照れる\\nできることは小さくて\\nでもやらない言い訳もない\\n\\n[Chorus]\\nシビックテックで夜が明ける\\n画面の向こうに街が見える\\n「しょうがない」って　もう言わない\\n書き直してく　当たり前を\\nシビックテックで手を伸ばす\\n失敗だらけでも笑い飛ばす\\n誰かの「助かったよ」が\\n通知みたいに　胸を震わせる",
+          "gpt_description_prompt": "シビック テック",
+          "type": "gen",
+          "duration": 120,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-03-12T05:35:10.107Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "J-pop, city pop",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 3
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "シビック・テック・ラブソング",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "771bb363-47b3-4c41-827a-a3c522a04a04",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/771bb363-47b3-4c41-827a-a3c522a04a04.mp3",
+        "image_url": "image/image_771bb363-47b3-4c41-827a-a3c522a04a04.jpeg",
+        "image_large_url": "image_large/image_large_771bb363-47b3-4c41-827a-a3c522a04a04.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "Mid-tempo J-pop band feel, bright drums and tight bass, clean electric guitars with light chorus, soft synth pads in the verses that bloom into wider chords in the hook. Male vocals with airy doubles on the chorus; backing “whoa”s and call-and-response ad-libs. Energy builds from a conversational first verse into an anthemic, shout-along chorus, brief middle-eight drop to half-time groove before final lift.",
+          "prompt": "[Verse 1]\\n古い掲示板　色あせたビラ\\n誰も見ないまま　はがれてく紙\\nため息まじりで　遠回りしてた\\n帰り道の橋の上\\n\\n「変えられないよ」って　言い訳してた\\n君が送ってきた　ひとつのリンク\\n小さな画面から　ひらけた地図に\\n知らない名前がいっぱい\\n\\n[Chorus]\\nシビック・テック　君と繋いだ\\n画面越しの手と手で　街を書き換えてく\\nシビック・テック　遠い誰かが\\nとなりにいるみたいに　同じバグを笑う\\nひとつずつ　なおしてく\\nこの暮らし　アップデートしよう\\n\\n[Verse 2]\\n段ボール机の　公民館ホール\\n延長コードが　床を走ってる\\nコーヒーのしみついた　プリントの端\\n赤ペンだらけのアイデア\\n\\n「それいいね」って　目が合うたびに\\n知らなかった未来　少し近くなる\\nできないことの数　数えるよりも\\nできること　書き出していこう\\n\\n[Chorus]\\nシビック・テック　君が笑えば\\n眠っていたデータまで　息を吹き返すよ\\nシビック・テック　迷子だった声\\n集めて地図にしたら　ここにいると気づく\\nひとつずつ　見つけ出す\\nこの街を　リミックスしよう\\n\\n[Bridge]\\n完璧じゃなくていいから (hey!)\\n止まらないでいてほしい\\nバグだらけの僕らでも\\nアップデート中のままでいい\\n\\n[Chorus]\\nシビック・テック　君と描いた\\n「こうなれたらいいな」を　現実にしてくよ\\nシビック・テック　夜が明けても\\n消えないコードみたいに　願いは残ってる\\nひとつずつ　動き出す\\nこの世界　アップデートしよう",
+          "gpt_description_prompt": "シビック テック",
+          "type": "gen",
+          "duration": 192.28,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-03-12T05:31:46.738Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "J-pop, pop rock",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1
+      },
+      "relative_index": 4
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "シビック・テック・ラブソング",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "49c1e216-87db-4ed0-848b-4c14f9129a3c",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/49c1e216-87db-4ed0-848b-4c14f9129a3c.mp3",
+        "image_url": "image/image_49c1e216-87db-4ed0-848b-4c14f9129a3c.jpeg",
+        "image_large_url": "image_large/image_large_49c1e216-87db-4ed0-848b-4c14f9129a3c.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "Mid-tempo J-pop band feel, bright drums and tight bass, clean electric guitars with light chorus, soft synth pads in the verses that bloom into wider chords in the hook. Male vocals with airy doubles on the chorus; backing “whoa”s and call-and-response ad-libs. Energy builds from a conversational first verse into an anthemic, shout-along chorus, brief middle-eight drop to half-time groove before final lift.",
+          "prompt": "[Verse 1]\\n古い掲示板　色あせたビラ\\n誰も見ないまま　はがれてく紙\\nため息まじりで　遠回りしてた\\n帰り道の橋の上\\n\\n「変えられないよ」って　言い訳してた\\n君が送ってきた　ひとつのリンク\\n小さな画面から　ひらけた地図に\\n知らない名前がいっぱい\\n\\n[Chorus]\\nシビック・テック　君と繋いだ\\n画面越しの手と手で　街を書き換えてく\\nシビック・テック　遠い誰かが\\nとなりにいるみたいに　同じバグを笑う\\nひとつずつ　なおしてく\\nこの暮らし　アップデートしよう\\n\\n[Verse 2]\\n段ボール机の　公民館ホール\\n延長コードが　床を走ってる\\nコーヒーのしみついた　プリントの端\\n赤ペンだらけのアイデア\\n\\n「それいいね」って　目が合うたびに\\n知らなかった未来　少し近くなる\\nできないことの数　数えるよりも\\nできること　書き出していこう\\n\\n[Chorus]\\nシビック・テック　君が笑えば\\n眠っていたデータまで　息を吹き返すよ\\nシビック・テック　迷子だった声\\n集めて地図にしたら　ここにいると気づく\\nひとつずつ　見つけ出す\\nこの街を　リミックスしよう\\n\\n[Bridge]\\n完璧じゃなくていいから (hey!)\\n止まらないでいてほしい\\nバグだらけの僕らでも\\nアップデート中のままでいい\\n\\n[Chorus]\\nシビック・テック　君と描いた\\n「こうなれたらいいな」を　現実にしてくよ\\nシビック・テック　夜が明けても\\n消えないコードみたいに　願いは残ってる\\nひとつずつ　動き出す\\nこの世界　アップデートしよう",
+          "gpt_description_prompt": "シビック テック",
+          "type": "gen",
+          "duration": 194.88,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-03-12T05:31:46.738Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "J-pop, pop rock",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 5
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "コード フォー フクイ",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "1246be75-0c58-414d-aa0a-c54a9c3ed66c",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/1246be75-0c58-414d-aa0a-c54a9c3ed66c.mp3",
+        "image_url": "image/image_1246be75-0c58-414d-aa0a-c54a9c3ed66c.jpeg",
+        "image_large_url": "image_large/image_large_1246be75-0c58-414d-aa0a-c54a9c3ed66c.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "Upbeat J-pop rock with bright electric guitars, tight live drums, and energetic male vocals; verses start crisp and bouncy, pre-chorus adds syncopated toms and rising synth pads, chorus explodes with wide gang shouts on the hook and melodic octave guitars; bridge strips to claps and bass then slams back into a double-chorus outro",
+          "prompt": "[Verse 1]\\n始発の風が　頬を切ってく\\n古い商店街　シャッターの影\\n眠そうな街に　ノートPC\\n光る画面だけ　やたらと元気\\n\\n[Pre-Chorus]\\n誰も知らない　小さなバグを\\n誰かの明日へ　つなげたいだけ\\n汗とカフェイン　混ざる指先\\n「動け」と祈る　F5連打\\n\\n[Chorus]\\nコード フォー フクイ\\nこの街のために\\n届かない声を　数字に変えてく\\nコード フォー フクイ\\nあきらめた夢を\\n一行ずつ　そっと救い上げる\\n(フォー フクイ)　画面の向こうまで\\n(フォー フクイ)　想いが走る\\n\\n[Verse 2]\\n駅前広場で　子どもが笑う\\nアンケート画面　誤字もご愛敬\\n「直していい？」って　隣で君が\\n寝ぐせのままで　真剣な顔\\n\\n[Pre-Chorus]\\nできない理由は　数えきれるけど\\nやれる方法　探すほうが楽しい\\n「無理」で終わった　あの日の企画\\n変数みたいに　書き換えていく\\n\\n[Chorus]\\nコード フォー フクイ\\nブラウザの海で\\n迷子になった　困りごと拾う\\nコード フォー フクイ\\n知識も肩書も\\nここにいる今で　全部アップデート\\n(フォー フクイ)　指が走り出す\\n(フォー フクイ)　夜が味方さ\\n\\n[Bridge]\\n閉館間ぎわの　市役所ロビー\\nIDカードが　小さく光る\\n「できたらいいな」を　「できた」に変える\\n誰のヒーローでも　なくていいから\\n\\n[Chorus]\\nコード フォー フクイ\\n君の「めんどくさい」\\n少しだけでも　軽くできたなら\\nコード フォー フクイ\\nそれで十分さ\\nバグだらけでも　また書き直せる\\n(フォー フクイ)　何度でも書くよ\\n(フォー フクイ)　この街のために",
+          "gpt_description_prompt": "コード フォー フクイ",
+          "type": "gen",
+          "duration": 188.6,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-03-12T05:28:26.269Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "J-pop, rock",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1
+      },
+      "relative_index": 6
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "コード フォー フクイ",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "c30c3dbe-92c2-4ecd-b544-b73eb35e95b1",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/c30c3dbe-92c2-4ecd-b544-b73eb35e95b1.mp3",
+        "image_url": "image/image_c30c3dbe-92c2-4ecd-b544-b73eb35e95b1.jpeg",
+        "image_large_url": "image_large/image_large_c30c3dbe-92c2-4ecd-b544-b73eb35e95b1.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "Upbeat J-pop rock with bright electric guitars, tight live drums, and energetic male vocals; verses start crisp and bouncy, pre-chorus adds syncopated toms and rising synth pads, chorus explodes with wide gang shouts on the hook and melodic octave guitars; bridge strips to claps and bass then slams back into a double-chorus outro",
+          "prompt": "[Verse 1]\\n始発の風が　頬を切ってく\\n古い商店街　シャッターの影\\n眠そうな街に　ノートPC\\n光る画面だけ　やたらと元気\\n\\n[Pre-Chorus]\\n誰も知らない　小さなバグを\\n誰かの明日へ　つなげたいだけ\\n汗とカフェイン　混ざる指先\\n「動け」と祈る　F5連打\\n\\n[Chorus]\\nコード フォー フクイ\\nこの街のために\\n届かない声を　数字に変えてく\\nコード フォー フクイ\\nあきらめた夢を\\n一行ずつ　そっと救い上げる\\n(フォー フクイ)　画面の向こうまで\\n(フォー フクイ)　想いが走る\\n\\n[Verse 2]\\n駅前広場で　子どもが笑う\\nアンケート画面　誤字もご愛敬\\n「直していい？」って　隣で君が\\n寝ぐせのままで　真剣な顔\\n\\n[Pre-Chorus]\\nできない理由は　数えきれるけど\\nやれる方法　探すほうが楽しい\\n「無理」で終わった　あの日の企画\\n変数みたいに　書き換えていく\\n\\n[Chorus]\\nコード フォー フクイ\\nブラウザの海で\\n迷子になった　困りごと拾う\\nコード フォー フクイ\\n知識も肩書も\\nここにいる今で　全部アップデート\\n(フォー フクイ)　指が走り出す\\n(フォー フクイ)　夜が味方さ\\n\\n[Bridge]\\n閉館間ぎわの　市役所ロビー\\nIDカードが　小さく光る\\n「できたらいいな」を　「できた」に変える\\n誰のヒーローでも　なくていいから\\n\\n[Chorus]\\nコード フォー フクイ\\n君の「めんどくさい」\\n少しだけでも　軽くできたなら\\nコード フォー フクイ\\nそれで十分さ\\nバグだらけでも　また書き直せる\\n(フォー フクイ)　何度でも書くよ\\n(フォー フクイ)　この街のために",
+          "gpt_description_prompt": "コード フォー フクイ",
+          "type": "gen",
+          "duration": 184.96,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-03-12T05:28:26.269Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "J-pop, rock",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 7
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "オープンデータ・ラブソング",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "d3a868bc-7ac7-4b9d-9f61-51e03078b402",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/d3a868bc-7ac7-4b9d-9f61-51e03078b402.mp3",
+        "image_url": "image/image_d3a868bc-7ac7-4b9d-9f61-51e03078b402.jpeg",
+        "image_large_url": "image_large/image_large_d3a868bc-7ac7-4b9d-9f61-51e03078b402.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "Bouncy electro-pop with bright synth arps and tight electronic drums; verses stay minimal with light plucks and a steady pulse, chorus explodes with layered female vocals, side-chained pads, and a sticky topline. Short vocoder ad-libs echo key phrases. Keep the mix glossy and upfront, perfect for a brisk 2:30 single.",
+          "prompt": "[Verse 1]\\n君と開いた　ブラウザの窓\\n眠っていた街の数字が　動き出す\\n通学路の風の速さも\\nあの日の渋滞も　ここにある\\n\\n[Chorus]\\nオープンデータ　君とつなぐ未来\\n隠れた景色を　線で結んでく\\nひとつひとつ　点が光り出すたび\\n世界が少し　やさしく見える (oh)\\nオープンデータ　君と描くストーリー\\n\\n[Verse 2]\\n誰かが測った　雨上がりの音\\n誰かが記した　迷子の時間\\n知らない誰かの気持ちまで\\n地図のすみに　そっとにじむ\\n\\n[Chorus]\\nオープンデータ　君とつなぐ未来\\n遠いだれかの　今日と重なってく\\nひとつひとつ　点を確かめるたび\\n世界のどこか　笑顔が増える (yeah)\\nオープンデータ　君と描くストーリー",
+          "gpt_description_prompt": "オープンデータ",
+          "type": "gen",
+          "duration": 131.36,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-03-12T05:24:41.165Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "electro-pop",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1
+      },
+      "relative_index": 8
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "オープンデータ・ラブソング",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "id": "71a536d0-d803-4aa4-b9f8-1a205ca83d68",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/71a536d0-d803-4aa4-b9f8-1a205ca83d68.mp3",
+        "image_url": "image/image_71a536d0-d803-4aa4-b9f8-1a205ca83d68.jpeg",
+        "image_large_url": "image_large/image_large_71a536d0-d803-4aa4-b9f8-1a205ca83d68.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "Bouncy electro-pop with bright synth arps and tight electronic drums; verses stay minimal with light plucks and a steady pulse, chorus explodes with layered female vocals, side-chained pads, and a sticky topline. Short vocoder ad-libs echo key phrases. Keep the mix glossy and upfront, perfect for a brisk 2:30 single.",
+          "prompt": "[Verse 1]\\n君と開いた　ブラウザの窓\\n眠っていた街の数字が　動き出す\\n通学路の風の速さも\\nあの日の渋滞も　ここにある\\n\\n[Chorus]\\nオープンデータ　君とつなぐ未来\\n隠れた景色を　線で結んでく\\nひとつひとつ　点が光り出すたび\\n世界が少し　やさしく見える (oh)\\nオープンデータ　君と描くストーリー\\n\\n[Verse 2]\\n誰かが測った　雨上がりの音\\n誰かが記した　迷子の時間\\n知らない誰かの気持ちまで\\n地図のすみに　そっとにじむ\\n\\n[Chorus]\\nオープンデータ　君とつなぐ未来\\n遠いだれかの　今日と重なってく\\nひとつひとつ　点を確かめるたび\\n世界のどこか　笑顔が増える (yeah)\\nオープンデータ　君と描くストーリー",
+          "gpt_description_prompt": "オープンデータ",
+          "type": "gen",
+          "duration": 159.72,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "task": "",
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-03-12T05:24:41.165Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "electro-pop",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 9
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_062e2a2f-0e65-4b5b-8774-34a4a2f86578.jpeg",
+  "num_total_results": 10,
+  "current_page": 1,
+  "is_owned": false,
+  "is_trashed": false,
+  "is_public": false,
+  "is_hidden": false,
+  "user_display_name": "Taisuke Fukuno",
+  "user_handle": "taisukefukuno858",
+  "user_avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+  "description": "",
+  "upvote_count": 0,
+  "dislike_count": 0,
+  "flag_count": 0,
+  "skip_count": 0,
+  "play_count": 0,
+  "song_count": 0,
+  "total_duration": 1811.3600000000001,
+  "is_discover_playlist": false,
+  "clipIds": [
+    "062e2a2f-0e65-4b5b-8774-34a4a2f86578",
+    "104fa98c-0fde-4abf-92d9-928bd6515070",
+    "154ba513-33e7-480d-9b50-7fcdabc30c97",
+    "2596b542-3a2f-433e-9e85-c1414ca8db50",
+    "771bb363-47b3-4c41-827a-a3c522a04a04",
+    "49c1e216-87db-4ed0-848b-4c14f9129a3c",
+    "1246be75-0c58-414d-aa0a-c54a9c3ed66c",
+    "c30c3dbe-92c2-4ecd-b544-b73eb35e95b1",
+    "d3a868bc-7ac7-4b9d-9f61-51e03078b402",
+    "71a536d0-d803-4aa4-b9f8-1a205ca83d68"
+  ]
+}
